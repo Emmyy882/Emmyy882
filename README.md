@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmyy882
 - 👀 I’m interested in Everything Tech..
-- 🌱 Aspiring Software Engineer.
+- 🌱 Software Engineering Student At ALX
 - 💞️ I’m looking to collaborate on projects so I can increase my skill level
 - 📫 How to reach me on Gmail emmaagbaje3@gmail.com
 
