@@ -16,3 +16,7 @@ I Love to join different communities that helps in sharpening my skills and push
 - 🌱 I'm currently a Software Engineering Student At ALX
 - 💞️ I’m looking to collaborate on projects so I can increase my skill level
 - 📫 How to reach me on Gmail emmaagbaje3@gmail.com, Twitter @EmmyyAgbaje
+
+- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
