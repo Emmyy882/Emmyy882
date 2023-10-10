@@ -24,7 +24,7 @@ I Love to join different communities that helps in sharpening my skills and push
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emmyy882)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emmyy882&theme=dark)](https://git.io/streak-stats)
 
 
 
