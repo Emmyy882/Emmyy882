@@ -12,9 +12,9 @@ I'm also Learning the Go Programming Language :)
 I Love to join different communities that helps in sharpening my skills and pushes me to be better.
 
 - 🧑‍🏭 I'm currently working on this page.
-- 👀 I’m interested in Everything Tech.. 😄
-- 🌱 I'm currently a Software Engineering Student At ALX
-- 💞️ I’m looking to collaborate on projects so I can increase my skill level
+- 👀 I’m interested in Everything Tech.. :)
+- 🌱 ALX Software Engineering Alumni
+- 💞️ I’m looking forward to collaborating on projects so I can increase my skill level
 - 📫 How to reach me on Gmail emmaagbaje3@gmail.com, Twitter @EmmyyAgbaje
 
 - ### :hammer_and_wrench: Languages and Tools :
