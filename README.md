@@ -1,20 +1,11 @@
-- 👋 **Hi there, Welcome!**
-
 ![myimage](https://github.com/Emmyy882/Emmyy882/assets/110739304/eed06ca0-fbd4-45d7-9cda-081b7428f7e9)
 
 
-Hello My name is **Agbaje Emmanuel.** I am a Student🧑‍🎓 at National Open University of Nigeria taking BS Computer Science.
+Hello My name is **Agbaje Emmanuel.** A BS Computer Science student at the National Open University of Nigeria (NOUN).
 
-I have a huge interest in Technology🧑‍💻, Software Engineering and Development! Currently studying **Software Engineering at ALX**
+I'm a passionate tech enthusiat with a growth mindset who is curious in exploring the possibilies in the world of technology. With a strong foundation in Software Engineering, I possess a unique blend of technical and analytical skills. Proficient in Programming Languages such as C, Python, JavaScript and Rust. Always eager to learn and looking forward to collaborating on exciting projects.
 
-I'm also Learning the Go Programming Language :)
-
-I Love to join different communities that helps in sharpening my skills and pushes me to be better.
-
-- 🧑‍🏭 I'm currently working on this page.
-- 👀 I’m interested in Everything Tech.. :)
-- 🌱 ALX Software Engineering Alumni
-- 💞️ I’m looking forward to collaborating on projects so I can increase my skill level
+- ALX Software Engineering Alumni
 - 📫 How to reach me on Gmail emmaagbaje3@gmail.com, Twitter @EmmyyAgbaje
 
 - ### :hammer_and_wrench: Languages and Tools :
