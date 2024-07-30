@@ -6,7 +6,7 @@ Hello My name is **Agbaje Emmanuel.** A BS Computer Science student at the Natio
 I'm a passionate tech enthusiat with a growth mindset who is curious in exploring the possibilies in the world of technology. With a strong foundation in Software Engineering, I possess a unique blend of technical and analytical skills. Proficient in Programming Languages such as C, Python, JavaScript and Rust. Always eager to learn and looking forward to collaborating on exciting projects.
 
 - ALX Software Engineering Alumni
-- 📫 How to reach me on Gmail emmaagbaje3@gmail.com, Twitter @EmmyyAgbaje
+- Gmail: emmaagbaje3@gmail.com, X (Twitter): @EmmyyAgbaje
 
 - ### :hammer_and_wrench: Languages and Tools :
 
