@@ -2,11 +2,10 @@
 
 
 # Agbaje Itafe Emmanuel
-___
 
 A BS Computer Science student at the National Open University of Nigeria (NOUN).
 
-I'm a passionate tech enthusiat with a growth mindset who is curious in exploring the possibilies in the world of technology. With a strong foundation in Software Engineering, I possess a unique blend of technical and analytical skills. Proficient in Programming Languages such as C, Python, JavaScript and Rust. Always eager to learn and looking forward to collaborating on exciting projects.
+I'm a passionate tech enthusiat with a growth mindset who is curious in exploring the possibilies in the world of technology. With a strong foundation in Software Engineering, I possess a unique blend of technical, analytical, communication and team-working skills. Proficient in Programming Languages such as C, Python, JavaScript. Always eager to learn and looking forward to collaborating on exciting projects.
 
 - ALX Software Engineering Alumni
 - Gmail: emmaagbaje3@gmail.com, X (Twitter): @EmmyyAgbaje
