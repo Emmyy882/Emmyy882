@@ -1,13 +1,16 @@
  ![myimage](https://github.com/Emmyy882/Emmyy882/assets/110739304/eed06ca0-fbd4-45d7-9cda-081b7428f7e9)
 
+
+# Agbaje Itafe Emmanuel
 ___
-Hello My name is **Agbaje Emmanuel.** A BS Computer Science student at the National Open University of Nigeria (NOUN).
+
+A BS Computer Science student at the National Open University of Nigeria (NOUN).
 
 I'm a passionate tech enthusiat with a growth mindset who is curious in exploring the possibilies in the world of technology. With a strong foundation in Software Engineering, I possess a unique blend of technical and analytical skills. Proficient in Programming Languages such as C, Python, JavaScript and Rust. Always eager to learn and looking forward to collaborating on exciting projects.
 
 - ALX Software Engineering Alumni
 - Gmail: emmaagbaje3@gmail.com, X (Twitter): @EmmyyAgbaje
-##
+***
 
 - ### :hammer_and_wrench: Languages and Tools :
 
